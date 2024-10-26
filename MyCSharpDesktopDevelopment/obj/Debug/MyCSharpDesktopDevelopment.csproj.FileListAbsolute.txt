@@ -1,0 +1,11 @@
+D:\program\C_cs\Code\MyCSharpDesktopDevelopment\MyCSharpDesktopDevelopment\bin\Debug\MyCSharpDesktopDevelopment.exe.config
+D:\program\C_cs\Code\MyCSharpDesktopDevelopment\MyCSharpDesktopDevelopment\bin\Debug\MyCSharpDesktopDevelopment.exe
+D:\program\C_cs\Code\MyCSharpDesktopDevelopment\MyCSharpDesktopDevelopment\bin\Debug\MyCSharpDesktopDevelopment.pdb
+D:\program\C_cs\Code\MyCSharpDesktopDevelopment\MyCSharpDesktopDevelopment\obj\Debug\MyCSharpDesktopDevelopment.csproj.AssemblyReference.cache
+D:\program\C_cs\Code\MyCSharpDesktopDevelopment\MyCSharpDesktopDevelopment\obj\Debug\MyCSharpDesktopDevelopment.Form1.resources
+D:\program\C_cs\Code\MyCSharpDesktopDevelopment\MyCSharpDesktopDevelopment\obj\Debug\MyCSharpDesktopDevelopment.Properties.Resources.resources
+D:\program\C_cs\Code\MyCSharpDesktopDevelopment\MyCSharpDesktopDevelopment\obj\Debug\MyCSharpDesktopDevelopment.csproj.GenerateResource.cache
+D:\program\C_cs\Code\MyCSharpDesktopDevelopment\MyCSharpDesktopDevelopment\obj\Debug\MyCSharpDesktopDevelopment.csproj.CoreCompileInputs.cache
+D:\program\C_cs\Code\MyCSharpDesktopDevelopment\MyCSharpDesktopDevelopment\obj\Debug\MyCSharpDesktopDevelopment.exe
+D:\program\C_cs\Code\MyCSharpDesktopDevelopment\MyCSharpDesktopDevelopment\obj\Debug\MyCSharpDesktopDevelopment.pdb
+D:\program\C_cs\Code\MyCSharpDesktopDevelopment\MyCSharpDesktopDevelopment\obj\Debug\MyCSharpDesktopDevelopment.Form2.resources
