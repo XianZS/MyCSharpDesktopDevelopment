@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\program\\C_cs\\Code\\MyCSharpDesktopDevelopment\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{39DC723D-027C-498E-8070-53CCF1E73C0C}|MyCSharpDesktopDevelopment\\MyCSharpDesktopDevelopment.csproj|D:\\program\\C_cs\\Code\\MyCSharpDesktopDevelopment\\mycsharpdesktopdevelopment\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39DC723D-027C-498E-8070-53CCF1E73C0C}|MyCSharpDesktopDevelopment\\MyCSharpDesktopDevelopment.csproj|solutionrelative:mycsharpdesktopdevelopment\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{39DC723D-027C-498E-8070-53CCF1E73C0C}|MyCSharpDesktopDevelopment\\MyCSharpDesktopDevelopment.csproj|d:\\program\\c_cs\\code\\mycsharpdesktopdevelopment\\mycsharpdesktopdevelopment\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39DC723D-027C-498E-8070-53CCF1E73C0C}|MyCSharpDesktopDevelopment\\MyCSharpDesktopDevelopment.csproj|solutionrelative:mycsharpdesktopdevelopment\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39DC723D-027C-498E-8070-53CCF1E73C0C}|MyCSharpDesktopDevelopment\\MyCSharpDesktopDevelopment.csproj|d:\\program\\c_cs\\code\\mycsharpdesktopdevelopment\\mycsharpdesktopdevelopment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{39DC723D-027C-498E-8070-53CCF1E73C0C}|MyCSharpDesktopDevelopment\\MyCSharpDesktopDevelopment.csproj|D:\\program\\C_cs\\Code\\MyCSharpDesktopDevelopment\\mycsharpdesktopdevelopment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39DC723D-027C-498E-8070-53CCF1E73C0C}|MyCSharpDesktopDevelopment\\MyCSharpDesktopDevelopment.csproj|solutionrelative:mycsharpdesktopdevelopment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39DC723D-027C-498E-8070-53CCF1E73C0C}|MyCSharpDesktopDevelopment\\MyCSharpDesktopDevelopment.csproj|d:\\program\\c_cs\\code\\mycsharpdesktopdevelopment\\mycsharpdesktopdevelopment\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{39DC723D-027C-498E-8070-53CCF1E73C0C}|MyCSharpDesktopDevelopment\\MyCSharpDesktopDevelopment.csproj|solutionrelative:mycsharpdesktopdevelopment\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +30,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\program\\C_cs\\Code\\MyCSharpDesktopDevelopment\\MyCSharpDesktopDevelopment\\Program.cs",
               "RelativeDocumentMoniker": "MyCSharpDesktopDevelopment\\Program.cs",
@@ -38,25 +38,24 @@
               "RelativeToolTip": "MyCSharpDesktopDevelopment\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAmwA0AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T13:53:34.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T13:53:34.089Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form2.cs",
               "DocumentMoniker": "D:\\program\\C_cs\\Code\\MyCSharpDesktopDevelopment\\MyCSharpDesktopDevelopment\\Form2.cs",
               "RelativeDocumentMoniker": "MyCSharpDesktopDevelopment\\Form2.cs",
               "ToolTip": "D:\\program\\C_cs\\Code\\MyCSharpDesktopDevelopment\\MyCSharpDesktopDevelopment\\Form2.cs",
               "RelativeToolTip": "MyCSharpDesktopDevelopment\\Form2.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwCQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-26T13:42:12.432Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form2.cs [\u8BBE\u8BA1]",
               "DocumentMoniker": "D:\\program\\C_cs\\Code\\MyCSharpDesktopDevelopment\\MyCSharpDesktopDevelopment\\Form2.cs",
               "RelativeDocumentMoniker": "MyCSharpDesktopDevelopment\\Form2.cs",
