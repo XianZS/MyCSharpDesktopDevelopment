@@ -17,7 +17,7 @@ namespace MyCSharpDesktopDevelopment
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             // 实例化Form1这个类，实例化这个界面
-            Application.Run(new Form5());
+            Application.Run(new Form7());
         }
     }
 }

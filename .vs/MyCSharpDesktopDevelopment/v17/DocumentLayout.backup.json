@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "D:\\program\\C_cs\\Code\\MyCSharpDesktopDevelopment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{39DC723D-027C-498E-8070-53CCF1E73C0C}|MyCSharpDesktopDevelopment\\MyCSharpDesktopDevelopment.csproj|d:\\program\\c_cs\\code\\mycsharpdesktopdevelopment\\mycsharpdesktopdevelopment\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39DC723D-027C-498E-8070-53CCF1E73C0C}|MyCSharpDesktopDevelopment\\MyCSharpDesktopDevelopment.csproj|solutionrelative:mycsharpdesktopdevelopment\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{39DC723D-027C-498E-8070-53CCF1E73C0C}|MyCSharpDesktopDevelopment\\MyCSharpDesktopDevelopment.csproj|d:\\program\\c_cs\\code\\mycsharpdesktopdevelopment\\mycsharpdesktopdevelopment\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DC723D-027C-498E-8070-53CCF1E73C0C}|MyCSharpDesktopDevelopment\\MyCSharpDesktopDevelopment.csproj|solutionrelative:mycsharpdesktopdevelopment\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39DC723D-027C-498E-8070-53CCF1E73C0C}|MyCSharpDesktopDevelopment\\MyCSharpDesktopDevelopment.csproj|d:\\program\\c_cs\\code\\mycsharpdesktopdevelopment\\mycsharpdesktopdevelopment\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39DC723D-027C-498E-8070-53CCF1E73C0C}|MyCSharpDesktopDevelopment\\MyCSharpDesktopDevelopment.csproj|solutionrelative:mycsharpdesktopdevelopment\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{39DC723D-027C-498E-8070-53CCF1E73C0C}|MyCSharpDesktopDevelopment\\MyCSharpDesktopDevelopment.csproj|d:\\program\\c_cs\\code\\mycsharpdesktopdevelopment\\mycsharpdesktopdevelopment\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39DC723D-027C-498E-8070-53CCF1E73C0C}|MyCSharpDesktopDevelopment\\MyCSharpDesktopDevelopment.csproj|solutionrelative:mycsharpdesktopdevelopment\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39DC723D-027C-498E-8070-53CCF1E73C0C}|MyCSharpDesktopDevelopment\\MyCSharpDesktopDevelopment.csproj|d:\\program\\c_cs\\code\\mycsharpdesktopdevelopment\\mycsharpdesktopdevelopment\\myclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39DC723D-027C-498E-8070-53CCF1E73C0C}|MyCSharpDesktopDevelopment\\MyCSharpDesktopDevelopment.csproj|solutionrelative:mycsharpdesktopdevelopment\\myclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\program\\C_cs\\Code\\MyCSharpDesktopDevelopment\\MyCSharpDesktopDevelopment\\DataBases\\SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyCSharpDesktopDevelopment\\DataBases\\SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39DC723D-027C-498E-8070-53CCF1E73C0C}|MyCSharpDesktopDevelopment\\MyCSharpDesktopDevelopment.csproj|d:\\program\\c_cs\\code\\mycsharpdesktopdevelopment\\mycsharpdesktopdevelopment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39DC723D-027C-498E-8070-53CCF1E73C0C}|MyCSharpDesktopDevelopment\\MyCSharpDesktopDevelopment.csproj|solutionrelative:mycsharpdesktopdevelopment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39DC723D-027C-498E-8070-53CCF1E73C0C}|MyCSharpDesktopDevelopment\\MyCSharpDesktopDevelopment.csproj|d:\\program\\c_cs\\code\\mycsharpdesktopdevelopment\\mycsharpdesktopdevelopment\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{39DC723D-027C-498E-8070-53CCF1E73C0C}|MyCSharpDesktopDevelopment\\MyCSharpDesktopDevelopment.csproj|solutionrelative:mycsharpdesktopdevelopment\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39DC723D-027C-498E-8070-53CCF1E73C0C}|MyCSharpDesktopDevelopment\\MyCSharpDesktopDevelopment.csproj|d:\\program\\c_cs\\code\\mycsharpdesktopdevelopment\\mycsharpdesktopdevelopment\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{39DC723D-027C-498E-8070-53CCF1E73C0C}|MyCSharpDesktopDevelopment\\MyCSharpDesktopDevelopment.csproj|solutionrelative:mycsharpdesktopdevelopment\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\program\\C_cs\\Code\\MyCSharpDesktopDevelopment\\MyCSharpDesktopDevelopment\\DataBases\\SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyCSharpDesktopDevelopment\\DataBases\\SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,83 +26,42 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form5.cs",
-              "DocumentMoniker": "D:\\program\\C_cs\\Code\\MyCSharpDesktopDevelopment\\MyCSharpDesktopDevelopment\\Form5.cs",
-              "RelativeDocumentMoniker": "MyCSharpDesktopDevelopment\\Form5.cs",
-              "ToolTip": "D:\\program\\C_cs\\Code\\MyCSharpDesktopDevelopment\\MyCSharpDesktopDevelopment\\Form5.cs",
-              "RelativeToolTip": "MyCSharpDesktopDevelopment\\Form5.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBkAAAANAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Form8.cs",
+              "DocumentMoniker": "D:\\program\\C_cs\\Code\\MyCSharpDesktopDevelopment\\MyCSharpDesktopDevelopment\\Form8.cs",
+              "RelativeDocumentMoniker": "MyCSharpDesktopDevelopment\\Form8.cs",
+              "ToolTip": "D:\\program\\C_cs\\Code\\MyCSharpDesktopDevelopment\\MyCSharpDesktopDevelopment\\Form8.cs",
+              "RelativeToolTip": "MyCSharpDesktopDevelopment\\Form8.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAMwA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T12:11:57.311Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-11-20T02:34:37.625Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form8.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\program\\C_cs\\Code\\MyCSharpDesktopDevelopment\\MyCSharpDesktopDevelopment\\Form8.cs",
+              "RelativeDocumentMoniker": "MyCSharpDesktopDevelopment\\Form8.cs",
+              "ToolTip": "D:\\program\\C_cs\\Code\\MyCSharpDesktopDevelopment\\MyCSharpDesktopDevelopment\\Form8.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "MyCSharpDesktopDevelopment\\Form8.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T02:34:13.449Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MyClass.cs",
-              "DocumentMoniker": "D:\\program\\C_cs\\Code\\MyCSharpDesktopDevelopment\\MyCSharpDesktopDevelopment\\MyClass.cs",
-              "RelativeDocumentMoniker": "MyCSharpDesktopDevelopment\\MyClass.cs",
-              "ToolTip": "D:\\program\\C_cs\\Code\\MyCSharpDesktopDevelopment\\MyCSharpDesktopDevelopment\\MyClass.cs",
-              "RelativeToolTip": "MyCSharpDesktopDevelopment\\MyClass.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBkAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T12:34:05.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form6.cs",
-              "DocumentMoniker": "D:\\program\\C_cs\\Code\\MyCSharpDesktopDevelopment\\MyCSharpDesktopDevelopment\\Form6.cs",
-              "RelativeDocumentMoniker": "MyCSharpDesktopDevelopment\\Form6.cs",
-              "ToolTip": "D:\\program\\C_cs\\Code\\MyCSharpDesktopDevelopment\\MyCSharpDesktopDevelopment\\Form6.cs",
-              "RelativeToolTip": "MyCSharpDesktopDevelopment\\Form6.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAADwvxEAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T12:27:20.847Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form6.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "D:\\program\\C_cs\\Code\\MyCSharpDesktopDevelopment\\MyCSharpDesktopDevelopment\\Form6.cs",
-              "RelativeDocumentMoniker": "MyCSharpDesktopDevelopment\\Form6.cs",
-              "ToolTip": "D:\\program\\C_cs\\Code\\MyCSharpDesktopDevelopment\\MyCSharpDesktopDevelopment\\Form6.cs [\u8BBE\u8BA1]",
-              "RelativeToolTip": "MyCSharpDesktopDevelopment\\Form6.cs [\u8BBE\u8BA1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T12:09:23.706Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form5.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "D:\\program\\C_cs\\Code\\MyCSharpDesktopDevelopment\\MyCSharpDesktopDevelopment\\Form5.cs",
-              "RelativeDocumentMoniker": "MyCSharpDesktopDevelopment\\Form5.cs",
-              "ToolTip": "D:\\program\\C_cs\\Code\\MyCSharpDesktopDevelopment\\MyCSharpDesktopDevelopment\\Form5.cs [\u8BBE\u8BA1]",
-              "RelativeToolTip": "MyCSharpDesktopDevelopment\\Form5.cs [\u8BBE\u8BA1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T12:09:15.754Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\program\\C_cs\\Code\\MyCSharpDesktopDevelopment\\MyCSharpDesktopDevelopment\\Program.cs",
-              "RelativeDocumentMoniker": "MyCSharpDesktopDevelopment\\Program.cs",
-              "ToolTip": "D:\\program\\C_cs\\Code\\MyCSharpDesktopDevelopment\\MyCSharpDesktopDevelopment\\Program.cs",
-              "RelativeToolTip": "MyCSharpDesktopDevelopment\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAADwvw8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T12:14:05.963Z",
+              "Title": "SQLQuery2.sql ",
+              "DocumentMoniker": "D:\\program\\C_cs\\Code\\MyCSharpDesktopDevelopment\\MyCSharpDesktopDevelopment\\DataBases\\SQLQuery2.sql",
+              "RelativeDocumentMoniker": "MyCSharpDesktopDevelopment\\DataBases\\SQLQuery2.sql",
+              "ToolTip": "SQLQuery2.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-15T02:58:48.933Z",
               "EditorCaption": ""
             }
           ]

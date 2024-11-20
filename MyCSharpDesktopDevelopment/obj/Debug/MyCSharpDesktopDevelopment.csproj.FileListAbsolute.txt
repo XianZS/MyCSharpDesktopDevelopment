@@ -13,3 +13,5 @@ D:\program\C_cs\Code\MyCSharpDesktopDevelopment\MyCSharpDesktopDevelopment\obj\D
 D:\program\C_cs\Code\MyCSharpDesktopDevelopment\MyCSharpDesktopDevelopment\obj\Debug\MyCSharpDesktopDevelopment.Form4.resources
 D:\program\C_cs\Code\MyCSharpDesktopDevelopment\MyCSharpDesktopDevelopment\obj\Debug\MyCSharpDesktopDevelopment.Form5.resources
 D:\program\C_cs\Code\MyCSharpDesktopDevelopment\MyCSharpDesktopDevelopment\obj\Debug\MyCSharpDesktopDevelopment.Form6.resources
+D:\program\C_cs\Code\MyCSharpDesktopDevelopment\MyCSharpDesktopDevelopment\obj\Debug\MyCSharpDesktopDevelopment.Form7.resources
+D:\program\C_cs\Code\MyCSharpDesktopDevelopment\MyCSharpDesktopDevelopment\obj\Debug\MyCSharpDesktopDevelopment.Form8.resources
